@@ -1,3 +1,11 @@
 enero
 febrero
 marzo
+abril
+mayo
+junio
+julio
+agosto
+setiembre
+octubre
+diciembre
